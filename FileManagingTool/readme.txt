@@ -1,2 +1,3 @@
-use commnad for execute tool
- "python fmt.py"
+fmt stand for file managing tool
+
+"python fmt.py"
